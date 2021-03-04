@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Social Cards
+
+This project is created using React, random data is retrieved from https://randomuser.me and the tutorial source is https://www.youtube.com/watch?v=M8hBIZEpowU
+
+Regards,
+Fawad Sheikh
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
